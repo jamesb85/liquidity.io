@@ -1,0 +1,31 @@
+html, body {
+  margin: -20px 0 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  height: 100%;
+  }
+
+.hero {
+  background: url('./liquiditysplash.jpg') no-repeat center center;
+  background-size: cover;
+  background-color: #555;
+  margin: 0;
+  width: 100%;
+  height: 110vh;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.hero_title{
+  padding-top: 50vh;
+  text-align: left;
+  margin-left: 100px;
+}
+h1{
+  color: #fff;
+  font-size: 55px;
+}
+h2{
+  color: #fff;
+  font-size: 35px;
+}
